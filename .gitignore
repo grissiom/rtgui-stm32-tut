@@ -1,0 +1,12 @@
+*~
+*.swp
+*.bak
+
+.sconsign.dblite
+
+project.uv*
+project_rtthread-stm32.dep
+
+*.hex
+build/
+obj/
